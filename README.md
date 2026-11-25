@@ -4,6 +4,15 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-yellow?style=for-the-badge" alt="Download"/>
+  </a>
+  <a href="https://github.com/releases">
+    <img src="https://img.shields.io/badge/📦%20All%20Versions-Releases-orange?style=for-the-badge" alt="Releases"/>
+  </a>
+</p>
+
 🕹️ **RimWorld — RunAndGun** — Mobile combat and moving-while-shooting mod for RimWorld. RimWorld — RunAndGun helps you allow your RimWorld colonists to fire weapons while moving for more dynamic tactical combat.
 
 ---
